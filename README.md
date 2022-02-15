@@ -45,33 +45,33 @@
       </a>
       <br>C
     </td>
+        <td align="center" width="96">
+      <a>
+        <img src="https://raw.githubusercontent.com/nikhilattili-sml/nikhilattili-sml/master/ts.png" width="40"/>
+      </a>
+      <br>TypeScript
+    </td>
   </tr>
 </table>
 <table>
   <tr>
     <td align="center" width="96">
       <a>
-        <img src="![image](https://user-images.githubusercontent.com/68282137/154093332-8f59b32f-8edf-495b-b37a-d56ee448c6b5.png)" width="40"/>
+        <img src="https://raw.githubusercontent.com/nikhilattili-sml/nikhilattili-sml/master/angular.png" width="40"/>
       </a>
       <br>Angular
     </td>
     <td align="center" width="96">
       <a>
-        <img src="https://raw.githubusercontent.com/pkkulhari/pkkulhari/master/icons/nodejs.svg" width="40"/>
+        <img src="https://raw.githubusercontent.com/nikhilattili-sml/nikhilattili-sml/master/android.png" width="40"/>
       </a>
-      <br>NodeJS
+      <br>Android
     </td>
     <td align="center" width="96">
       <a>
-        <img src="https://raw.githubusercontent.com/pkkulhari/pkkulhari/master/icons/electron.svg" width="40"/>
+        <img src="https://raw.githubusercontent.com/nikhilattili-sml/nikhilattili-sml/master/flask.png" width="40"/>
       </a>
-      <br>Electron
-    </td>
-    <td align="center" width="96">
-      <a>
-        <img src="https://raw.githubusercontent.com/pkkulhari/pkkulhari/master/icons/bootstrap.svg" width="40"/>
-      </a>
-      <br>Bootstrap
+      <br>Flask
     </td>
   </tr>
 </table>
@@ -99,6 +99,12 @@
         <img src="https://raw.githubusercontent.com/pkkulhari/pkkulhari/master/icons/git.svg" width="40"/>
       </a>
       <br>Git
+    </td>
+        <td align="center" width="96">
+      <a>
+        <img src="https://raw.githubusercontent.com/nikhilattili-sml/nikhilattili-sml/master/gcp.png" width="80"/>
+      </a>
+      <br>GCP
     </td>
   </tr>
 </table>
