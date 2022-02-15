@@ -1,14 +1,13 @@
 # Hi, this is Nikhil
 
-![Profile Banner](https://raw.githubusercontent.com/nikhilattili-sml/nikhilattili-sml/master/images/github-profile-banner.png)
+[![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](https://www.youtube.com/watch?v=SDkAGkd4NLc) 
 
-
-## 🌍 Lets_Connect_On
+## We can connect on
 
 - [Linkedin](https://www.linkedin.com/in/nikhil-attili-8167a816b)
-- [Instagram - @pk_kulhari](https://www.instagram.com/nikhilattili/)
+- [Instagram](https://www.instagram.com/nikhilattili/)
 
-## 🚀 My_Skills
+## 🚀 My skills
 
 > _Tools, languages, and other things that I like to work with_
 
@@ -100,15 +99,8 @@
   </tr>
 </table>
 
-## 📝 Recent_Blog_Posts
 
-- [Authorize Git Operations Using Personal Access Token](https://indietutes.com/authorize-git-operations-using-personal-access-token)
-
-- [21 HTML Best Practices for Writing Maintainable and Scalable Document](https://indietutes.com/html-best-practices)
-
-- [7 Git Commands with Examples](https://indietutes.com/git-commands)
-
-## 📈 Github_Stats
+## 📈 Github Stats
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nikhilattili-sml&show_icons=true&theme=radical&hide_border=true)
 
