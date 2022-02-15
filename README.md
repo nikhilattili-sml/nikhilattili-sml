@@ -1,17 +1,29 @@
-# Hi, this is Nikhil
+<h3 title="hehehe"> Hey, I'm Nikhil!</h3>
+
+<a href="https://www.linkedin.com/in/nikhil-attili-8167a816b">
+  <img align="left" alt="Nikhil's LinkedIn" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+<a href="https://www.instagram.com/nikhilattili/">
+  <img align="left" alt="Nikhil's Instagram" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+</a>
+
+
+<br />
+<br />
+
+ 
 
 [![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](https://www.youtube.com/watch?v=SDkAGkd4NLc) 
 
-## We can connect on
+**About Me!**
 
-- [Linkedin](https://www.linkedin.com/in/nikhil-attili-8167a816b)
-- [Instagram](https://www.instagram.com/nikhilattili/)
+- Data engineer with 1.5+ years of experience
+- Currently hold some expertise in Angular, Google Cloud, Android and Python Flask.
+- Currently majorly contributing towards health care solutions.
+- Ask me about anything, I love to answer!
+- Email me at [sainikhilattili@gmail.com](mailto:sainikhilattili@gmail.com).
 
-## 🚀 My skills
-
-> _Tools, languages, and other things that I like to work with_
-
-**Programming Languages**
+## Languages and Tools
 
 <table>
   <tr>
@@ -35,16 +47,13 @@
     </td>
   </tr>
 </table>
-
-**Frameworks & Libraries**
-
 <table>
   <tr>
     <td align="center" width="96">
       <a>
-        <img src="https://raw.githubusercontent.com/pkkulhari/pkkulhari/master/icons/react.svg" width="40"/>
+        <img src="![image](https://user-images.githubusercontent.com/68282137/154093332-8f59b32f-8edf-495b-b37a-d56ee448c6b5.png)" width="40"/>
       </a>
-      <br>React
+      <br>Angular
     </td>
     <td align="center" width="96">
       <a>
@@ -66,9 +75,6 @@
     </td>
   </tr>
 </table>
-
-**Markup & Stylesheet**
-
 <table>
   <tr>
     <td align="center" width="96">
@@ -85,8 +91,6 @@
     </td>
   </tr>
 </table>
-
-**Other Tools**
 
 <table>
   <tr>
