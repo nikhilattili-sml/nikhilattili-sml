@@ -110,11 +110,9 @@
 </table>
 
 
-## 📈 Github Stats
+## Github Stats
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nikhilattili-sml&show_icons=true&theme=radical&hide_border=true)
-
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nikhilattili-sml&theme=radical&langs_count=15&layout=compact&hide_border=true)
 
 ![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=nikhilattili-sml&theme=redical&hide_border=true&area=true)
 
