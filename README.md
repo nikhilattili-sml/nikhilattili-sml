@@ -17,7 +17,7 @@
 
 **About Me!**
 
-- Data engineer with 1.5+ years of experience
+- Data engineer with 2+ years of experience
 - Currently hold some expertise in Angular, Google Cloud, Android and Python Flask.
 - Currently majorly contributing towards health care solutions.
 - Ask me about anything, I love to answer!
